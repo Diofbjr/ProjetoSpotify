@@ -1,0 +1,1 @@
+Nesse projeto se foi criado a antiga versão do site de músicas Spotify, se foi utilizado para essa criação HTML, CSS e Bootstrap com design responsivo, adicionei também o carousel usando o bootstrap. 
